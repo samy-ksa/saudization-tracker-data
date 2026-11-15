@@ -4,6 +4,8 @@ A dated, sourced dataset of **17 official Saudization (localisation) and Nitaqat
 
 Each record has: announcement date, effective date, deciding authority, who is affected, a one-sentence summary, a primary source (SPA, HRSD, HRDF or equivalent) and a second source, plus a confidence level. Records without a primary source or two independent media are not included. Where sources disagree on a date, the disagreement is stated in `notes`.
 
+**Cite this dataset:** DOI [10.5281/zenodo.24244514](https://doi.org/10.5281/zenodo.24244514) (Zenodo, v1.0.0, CC BY 4.0).
+
 ## Files
 - `data/saudization-decisions.json`: full data
 - `data/saudization-decisions.csv`: same data, one row per decision
